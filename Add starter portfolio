@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Anthony Foster | Cybersecurity Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0f172a;
+      color: #f1f5f9;
+      margin: 0;
+      padding: 20px;
+    }
+    header {
+      text-align: center;
+      padding: 10px 0;
+    }
+    h1 {
+      color: #38bdf8;
+    }
+    a {
+      color: #38bdf8;
+      text-decoration: none;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    .project {
+      background: #1e293b;
+      padding: 15px;
+      border-radius: 5px;
+      margin: 10px 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Anthony Foster</h1>
+    <p>Cybersecurity Professional | Ethical Hacking | Threat Detection</p>
+    <p>
+      <a href="https://github.com/ZeroDayFoster">GitHub</a> |
+      <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/anthony-foster-173a82263?trk=contact-info">LinkedIn</a> |
+      <a href="mailto:pawnpeice@gmail.com">Email Me</a>
+    </p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I am passionate about cybersecurity, threat detection, and offensive security. This site showcases my projects, tools, and write-ups.</p>
+  </section>
+
+  <section>
+    <h2>Projects</h2>
+    <div class="project">
+      <h3><a href="https://github.com/yourusername/my-ctf-writeups">CTF Write-Ups</a></h3>
+      <p>My solutions to various Capture The Flag challenges, demonstrating practical skills in exploitation and defense.</p>
+    </div>
+    <div class="project">
+      <h3><a href="https://github.com/yourusername/my-tool">Custom Python Tool</a></h3>
+      <p>A tool I built for automating reconnaissance during penetration tests.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Feel free to reach out for collaboration, freelance work, or mentorship opportunities.</p>
+  </section>
+</body>
+</html>
